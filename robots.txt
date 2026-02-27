@@ -1,12 +1,4 @@
-User-agent: *
+User-Agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://rafikcodeur.me/sitemap.xml
-
-# Crawl-delay
-Crawl-delay: 1
-
-# Disallow certain paths (if any)
-# Disallow: /admin/
-# Disallow: /private/
